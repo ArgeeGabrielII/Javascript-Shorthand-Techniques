@@ -629,7 +629,7 @@ const total = numbers.reduce(reducer, initialValue)
 ```
 
 # Pseudo Switch Statement
-Dynamically Adding Cases to a switch Statement
+Dynamically Adding Cases to a pseudo switch Statement
 
 ### Code Example
 ```javascript
